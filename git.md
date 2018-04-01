@@ -1,2 +1,2 @@
-# Win��ł�git�̎g����
+# Win上でのgitの使い方
 
