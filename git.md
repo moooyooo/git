@@ -3,6 +3,9 @@
 ##コマンドの基礎と順序
 
 ```
+	git --bare init --shared	=> リモートに空のリポジトリ作成
+	git remote add origin [Local Path]　	=> ローカルリポジトリとリモートを紐付け
+
 	git init				
 	
 	$vi .gitignore			=> 対象ファイル/ディレクトリ
