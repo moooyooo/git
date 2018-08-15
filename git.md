@@ -5,6 +5,7 @@
 ```
 	git --bare init --shared	=> リモートに空のリポジトリ作成
 	git remote add origin [Local Path]　	=> ローカルリポジトリとリモートを紐付け
+	git push origin master		=> masterへのpush
 
 	git init				
 	
