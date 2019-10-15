@@ -33,7 +33,7 @@
 	git checkout -b [ブランチ名] [SHA1・ハッシュ]		新しいブランチをつくる
 	git checkout [ブランチ名] 							ブランチを移動する
 
-	git branch
+	git branch		現在のbranchを一覧表示する(*はアクティブ)
 	git remote 
 	git remote -v
 	git push -u origin(初期のリモート) old(ブランチ名)
